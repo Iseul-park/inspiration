@@ -1,3 +1,3 @@
 # Inspirational Quotes
 
-Randon Inspirational Quotes Display
+Random Inspirational Quotes Display
