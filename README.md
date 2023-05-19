@@ -1,3 +1,3 @@
-# https---github.com-Iseul-park-inspiration
+# Inspirational Quotes
 
 Randon Inspirational Quotes Display
